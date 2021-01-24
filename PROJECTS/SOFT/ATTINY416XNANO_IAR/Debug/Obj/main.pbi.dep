@@ -1,0 +1,18 @@
+main.pbi: C:\Program\ Files\ (x86)\IAR\ Systems\AVR\avr\inc\dlib\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\AVR\avr\inc\dlib\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\AVR\avr\inc\dlib\c\ystdio.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\AVR\avr\inc\dlib\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\AVR\avr\inc\dlib\c\DLib_Threads.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\AVR\avr\inc\dlib\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\AVR\avr\inc\dlib\c\xencoding_limits.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\AVR\avr\inc\dlib\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\AVR\avr\LIB\DLIB\dlAVR-1s-arch4-n.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\AVR\avr\inc\dlib\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\AVR\avr\inc\dlib\c\stdio.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\AVR\avr\inc\intrinsics.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\AVR\avr\inc\Atmel\iomacro_xmega.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\AVR\avr\inc\iomacro.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\AVR\avr\inc\iotiny416.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\AVR\avr\inc\ioavr.h \
+  D:\PROJECTS\UrbanSmartGrid\T-LOG\ Projects\PROJECTS\SOFT\ATTINY416XNANO_IAR\def.h \
+  D:\PROJECTS\UrbanSmartGrid\T-LOG\ Projects\PROJECTS\SOFT\ATTINY416XNANO_IAR\main.c

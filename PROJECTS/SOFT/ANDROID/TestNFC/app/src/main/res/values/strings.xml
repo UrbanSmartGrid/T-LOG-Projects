@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestNFC</string>
+
+    <string-array name="tlogModes">
+        <item>Не активирована</item>
+        <item>Контроль температуры</item>
+        <item>Остановлена</item>
+        <item>Заблокирована</item>
+    </string-array>
+</resources>

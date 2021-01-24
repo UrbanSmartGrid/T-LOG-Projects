@@ -1,0 +1,105 @@
+Added Component: Designator=C1(C0402)
+Add component (AddParameter): Name = "TYPE"; Value = "Чип-конденсатор 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0402)
+Add component (AddParameter): Name = "TYPE"; Value = "Чип-конденсатор 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0402)
+Add component (AddParameter): Name = "TYPE"; Value = "Чип-конденсатор 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0402)
+Add component (AddParameter): Name = "TYPE"; Value = "Чип-конденсатор 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DD1(VQFN20_3x3_0.4)
+Added Component: Designator=DD2(UDFN-8_2X3)
+Added Component: Designator=DD3(UDFN-8_2X3)
+Added Component: Designator=L1(WE-LQ_1210)
+Add component (AddParameter): Name = "TYPE"; Value = "LQM2HPN2R2MJ0"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0402)
+Add component (AddParameter): Name = "TYPE"; Value = "Чип-резистор 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0402)
+Add component (AddParameter): Name = "TYPE"; Value = "Чип-резистор 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0402)
+Add component (AddParameter): Name = "TYPE"; Value = "Чип-резистор 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SC-75)
+Added Component: Designator=VT2(SC-75)
+Added Component: Designator=X1(KEYSTONE_3031)
+Added Component: Designator=X2(VIA_0.8x1.6_ROUND)
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X3(VIA_0.8x1.6_ROUND)
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X4(VIA_0.8x1.6_ROUND)
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X5(VIA_0.8x1.6_ROUND)
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ANT0 Pin=DD2-2
+Added Pin To Net: NetName=ANT0 Pin=L1-2
+Added Net: Name=ANT0
+Added Pin To Net: NetName=ANT1 Pin=DD2-3
+Added Pin To Net: NetName=ANT1 Pin=L1-1
+Added Net: Name=ANT1
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=DD1-3
+Added Pin To Net: NetName=GND Pin=DD2-4
+Added Pin To Net: NetName=GND Pin=DD3-1
+Added Pin To Net: NetName=GND Pin=DD3-2
+Added Pin To Net: NetName=GND Pin=DD3-3
+Added Pin To Net: NetName=GND Pin=DD3-4
+Added Pin To Net: NetName=GND Pin=DD3-7
+Added Pin To Net: NetName=GND Pin=VT1-2
+Added Pin To Net: NetName=GND Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X4-1
+Added Net: Name=GND
+Added Pin To Net: NetName=I2C_SCL Pin=DD1-14
+Added Pin To Net: NetName=I2C_SCL Pin=DD2-6
+Added Pin To Net: NetName=I2C_SCL Pin=DD3-6
+Added Pin To Net: NetName=I2C_SCL Pin=R3-1
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=DD1-13
+Added Pin To Net: NetName=I2C_SDA Pin=DD2-5
+Added Pin To Net: NetName=I2C_SDA Pin=DD3-5
+Added Pin To Net: NetName=I2C_SDA Pin=R2-1
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=NFC_WAKEUP Pin=DD1-11
+Added Pin To Net: NetName=NFC_WAKEUP Pin=VT1-3
+Added Net: Name=NFC_WAKEUP
+Added Pin To Net: NetName=PWR_HARVEST Pin=C2-2
+Added Pin To Net: NetName=PWR_HARVEST Pin=DD2-1
+Added Pin To Net: NetName=PWR_HARVEST Pin=VT1-1
+Added Net: Name=PWR_HARVEST
+Added Pin To Net: NetName=PWR_MEM Pin=DD1-12
+Added Pin To Net: NetName=PWR_MEM Pin=R1-1
+Added Pin To Net: NetName=PWR_MEM Pin=VT2-1
+Added Net: Name=PWR_MEM
+Added Pin To Net: NetName=TEST Pin=DD1-10
+Added Pin To Net: NetName=TEST Pin=X5-1
+Added Net: Name=TEST
+Added Pin To Net: NetName=UPDI Pin=DD1-19
+Added Pin To Net: NetName=UPDI Pin=X2-1
+Added Net: Name=UPDI
+Added Pin To Net: NetName=VCC_BAT Pin=C1-2
+Added Pin To Net: NetName=VCC_BAT Pin=DD1-4
+Added Pin To Net: NetName=VCC_BAT Pin=R1-2
+Added Pin To Net: NetName=VCC_BAT Pin=VT2-2
+Added Pin To Net: NetName=VCC_BAT Pin=X1-1
+Added Pin To Net: NetName=VCC_BAT Pin=X1-2
+Added Pin To Net: NetName=VCC_BAT Pin=X3-1
+Added Net: Name=VCC_BAT
+Added Pin To Net: NetName=VCC_MEM Pin=C3-2
+Added Pin To Net: NetName=VCC_MEM Pin=C4-2
+Added Pin To Net: NetName=VCC_MEM Pin=DD2-8
+Added Pin To Net: NetName=VCC_MEM Pin=DD3-8
+Added Pin To Net: NetName=VCC_MEM Pin=R2-2
+Added Pin To Net: NetName=VCC_MEM Pin=R3-2
+Added Pin To Net: NetName=VCC_MEM Pin=VT2-3
+Added Net: Name=VCC_MEM

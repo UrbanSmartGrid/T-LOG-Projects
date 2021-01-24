@@ -1,0 +1,627 @@
+2020-12-08 20:51:48,885 [INFO] Activator:178 - 
+
+
+2020-12-08 20:51:48,885 [INFO] Activator:179 - !SESSION log4j initialized
+2020-12-08 20:51:55,467 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643
+2020-12-08 20:51:55,482 [INFO] DbMcusXml:70 - Set database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/mcu/
+2020-12-08 20:51:55,498 [INFO] DbBoardsPdsc:56 - Set plugin database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/boardmanager/
+2020-12-08 20:51:55,498 [INFO] DbMcus:258 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-12-08 20:51:55,510 [INFO] DbBoards:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-12-08 20:51:55,510 [INFO] DbExamples:326 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-12-08 20:51:55,525 [INFO] DbMcusDocs:112 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-08 20:51:55,525 [INFO] DbMcusJson:63 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-08 20:51:55,525 [INFO] DbBoardsDocs:112 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-08 20:51:55,525 [INFO] DbBoardsJson:56 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-08 20:51:55,525 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-12-08 20:51:55,541 [INFO] DbExamplesSqlite:800 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-08 20:51:55,730 [INFO] RulesReader:52 - Compatibility file has been processed (209 Rules)
+2020-12-08 20:51:55,857 [INFO] MicroXplorer:564 - Detected Java Version = 1.8.0_242
+2020-12-08 20:51:55,857 [INFO] DbMcusXml:70 - Set database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/mcu/
+2020-12-08 20:51:55,857 [INFO] DbBoardsPdsc:56 - Set plugin database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/boardmanager/
+2020-12-08 20:51:55,857 [INFO] DbMcus:258 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-12-08 20:51:55,857 [INFO] DbBoards:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-12-08 20:51:55,857 [INFO] DbExamples:326 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-12-08 20:51:55,857 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder/ => C:\Users\Windows-home\.stmcufinder\plugins\mcufinder
+2020-12-08 20:51:55,857 [INFO] DbMcusDocs:112 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-08 20:51:55,857 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder/ => C:\Users\Windows-home\.stmcufinder\plugins\mcufinder
+2020-12-08 20:51:55,857 [INFO] DbMcusJson:63 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-08 20:51:55,857 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder/ => C:\Users\Windows-home\.stmcufinder\plugins\mcufinder
+2020-12-08 20:51:55,857 [INFO] DbBoardsDocs:112 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-08 20:51:55,857 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder/ => C:\Users\Windows-home\.stmcufinder\plugins\mcufinder
+2020-12-08 20:51:55,857 [INFO] DbBoardsJson:56 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-08 20:51:55,857 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder/ => C:\Users\Windows-home\.stmcufinder\plugins\mcufinder
+2020-12-08 20:51:55,857 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder/ => C:\Users\Windows-home\.stmcufinder\plugins\mcufinder
+2020-12-08 20:51:55,857 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-12-08 20:51:55,857 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder/ => C:\Users\Windows-home\.stmcufinder\plugins\mcufinder
+2020-12-08 20:51:55,857 [INFO] DbExamplesSqlite:800 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-08 20:51:55,982 [INFO] MainPanel:189 - HeapMemory: 268435456
+2020-12-08 20:51:56,107 [INFO] DbMcusXml:70 - Set database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/mcu/
+2020-12-08 20:51:56,107 [INFO] DbBoardsPdsc:56 - Set plugin database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/boardmanager/
+2020-12-08 20:51:56,107 [INFO] DbMcus:258 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-12-08 20:51:56,107 [INFO] DbBoards:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-12-08 20:51:56,107 [INFO] DbExamples:326 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-12-08 20:51:56,107 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder/ => C:\Users\Windows-home\.stmcufinder\plugins\mcufinder
+2020-12-08 20:51:56,107 [INFO] DbMcusDocs:112 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-08 20:51:56,107 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder/ => C:\Users\Windows-home\.stmcufinder\plugins\mcufinder
+2020-12-08 20:51:56,107 [INFO] DbMcusJson:63 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-08 20:51:56,107 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder/ => C:\Users\Windows-home\.stmcufinder\plugins\mcufinder
+2020-12-08 20:51:56,107 [INFO] DbBoardsDocs:112 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-08 20:51:56,107 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder/ => C:\Users\Windows-home\.stmcufinder\plugins\mcufinder
+2020-12-08 20:51:56,107 [INFO] DbBoardsJson:56 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-08 20:51:56,107 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder/ => C:\Users\Windows-home\.stmcufinder\plugins\mcufinder
+2020-12-08 20:51:56,107 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder/ => C:\Users\Windows-home\.stmcufinder\plugins\mcufinder
+2020-12-08 20:51:56,107 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-12-08 20:51:56,107 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder/ => C:\Users\Windows-home\.stmcufinder\plugins\mcufinder
+2020-12-08 20:51:56,107 [INFO] DbExamplesSqlite:800 - Set database path to: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-08 20:51:56,138 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643
+2020-12-08 20:51:56,138 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=, ]
+2020-12-08 20:51:56,138 [INFO] PluginManage:292 - Check plugin analytics
+2020-12-08 20:51:56,395 [INFO] AnalyticsPlugin:203 - Accepted Software Licenses: STM32CubeMX.5.6.0,STM32CubeMX.5.6.1,STM32CubeMX.5.1.0,STM32CubeMX.6.0.1
+2020-12-08 20:51:56,395 [INFO] AnalyticsPlugin:205 - Accepted CMSIS Pack Licenses: 
+2020-12-08 20:51:56,395 [INFO] AnalyticsPlugin:207 - Accepted Firmware Licenses: 
+2020-12-08 20:51:56,395 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-12-08 20:51:56,395 [INFO] PluginManage:292 - Check plugin clock
+2020-12-08 20:51:56,411 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-12-08 20:51:56,411 [INFO] PluginManage:292 - Check plugin ddr
+2020-12-08 20:51:56,427 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-12-08 20:51:56,427 [INFO] PluginManage:292 - Check plugin filemanager
+2020-12-08 20:51:56,602 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-12-08 20:51:56,602 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-12-08 20:51:56,617 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-12-08 20:51:56,617 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-12-08 20:51:56,633 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-12-08 20:51:56,633 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-12-08 20:51:56,680 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-12-08 20:51:56,680 [INFO] PluginManage:292 - Check plugin power
+2020-12-08 20:51:56,711 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-12-08 20:51:56,711 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-12-08 20:51:56,727 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-12-08 20:51:56,727 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-12-08 20:51:56,918 [INFO] ThirdPartyDb:333 - Open Third Party DataBase File (C:/Users/Windows-home/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 78 ms. number of Sw pack : 26
+2020-12-08 20:51:56,933 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-12-08 20:51:56,933 [INFO] PluginManage:292 - Check plugin tools
+2020-12-08 20:51:56,933 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-12-08 20:51:56,933 [INFO] PluginManage:292 - Check plugin tutovideos
+2020-12-08 20:51:57,216 [INFO] PluginManage:342 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2020-12-08 20:51:57,216 [INFO] PluginManage:292 - Check plugin updater
+2020-12-08 20:51:57,231 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-12-08 20:51:57,231 [INFO] PluginManage:265 - PluginManage : Loaded plugins [13]
+2020-12-08 20:51:57,499 [INFO] PinOutPanel:1418 - setPackage(No Configuration,No Configuration)
+2020-12-08 20:51:57,626 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,626 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-12-08 20:51:57,626 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,626 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-12-08 20:51:57,626 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,626 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-12-08 20:51:57,642 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,642 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-12-08 20:51:57,642 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,642 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-12-08 20:51:57,642 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,642 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-12-08 20:51:57,657 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,657 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-12-08 20:51:57,673 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,673 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-12-08 20:51:57,673 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,673 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-12-08 20:51:57,688 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,688 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-12-08 20:51:57,688 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,688 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-12-08 20:51:57,704 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,704 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-12-08 20:51:57,704 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,704 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-12-08 20:51:57,720 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,720 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-12-08 20:51:57,720 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,720 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-12-08 20:51:57,720 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,720 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-12-08 20:51:57,735 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,735 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-12-08 20:51:57,735 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,735 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-12-08 20:51:57,735 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,751 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-12-08 20:51:57,753 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,753 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-12-08 20:51:57,753 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,753 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-12-08 20:51:57,753 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,753 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-12-08 20:51:57,769 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,769 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-12-08 20:51:57,769 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,769 [INFO] PluginManager:200 - loadIPPluginJar : add openamp
+2020-12-08 20:51:57,769 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,769 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-12-08 20:51:57,784 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,784 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-12-08 20:51:57,784 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,784 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-12-08 20:51:57,800 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,800 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-12-08 20:51:57,800 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,800 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-12-08 20:51:57,815 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,815 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-12-08 20:51:57,815 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,815 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-12-08 20:51:57,815 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,815 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-12-08 20:51:57,831 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,831 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-12-08 20:51:57,831 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,831 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-12-08 20:51:57,831 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,831 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-12-08 20:51:57,831 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,831 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-12-08 20:51:57,831 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,831 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-12-08 20:51:57,847 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:51:57,847 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-12-08 20:51:58,472 [INFO] CubeProgrammer:457 - [DDR PANEL] - PathOfProgrammer: null
+2020-12-08 20:51:59,550 [FATAL] Updater:282 - Updater called before beeing initialized
+2020-12-08 20:51:59,785 [FATAL] Updater:282 - Updater called before beeing initialized
+2020-12-08 20:51:59,785 [WARN] ThirdParty:775 - waiting for thirdparty lock release [close project]
+2020-12-08 20:51:59,785 [INFO] ThirdParty:777 - entering critical section [close project]
+2020-12-08 20:51:59,785 [INFO] ThirdParty:790 - exiting critical section [close project]
+2020-12-08 20:51:59,785 [INFO] PinOutPanel:1418 - setPackage(No Configuration,No Configuration)
+2020-12-08 20:51:59,785 [FATAL] Updater:282 - Updater called before beeing initialized
+2020-12-08 20:51:59,800 [ERROR] Updater:967 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2020-12-08 20:51:59,800 [INFO] CubeProgrammer:457 - [DDR PANEL] - PathOfProgrammer: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.4.0.202007081208\tools\bin
+2020-12-08 20:51:59,800 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.4.0.202007081208\tools\bin\STM32_Programmer_CLI.exe -l
+2020-12-08 20:52:01,777 [INFO] MainDdrPanel:49 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.4.0.202007081208\tools\bin
+2020-12-08 20:52:01,835 [INFO] Updater:904 - Updater Version found : 6.0.1
+2020-12-08 20:52:01,866 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643
+2020-12-08 20:52:02,117 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host sw-center.st.com
+2020-12-08 20:52:14,152 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.ebuc23.com
+2020-12-08 20:52:14,152 [INFO] MainUpdater:2268 - connection check result : 22
+2020-12-08 20:52:14,152 [INFO] MainUpdater:239 - Updater Check For Update Now.
+2020-12-08 20:52:14,152 [INFO] MicroXplorer:414 - Change Database Version : DB.6.0.0
+2020-12-08 20:52:14,246 [INFO] CheckServerUpdateThread:102 - End of CheckServer Thread
+2020-12-08 20:52:14,277 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host sw-center.st.com
+2020-12-08 20:52:14,277 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.ebuc23.com
+2020-12-08 20:52:14,277 [INFO] MainUpdater:2268 - connection check result : 22
+2020-12-08 20:52:14,983 [WARN] IntegrityCheckThread:61 - waiting for thirdparty lock release [integrity check]
+2020-12-08 20:52:14,983 [INFO] IntegrityCheckThread:63 - entering critical section [integrity check]
+2020-12-08 20:52:15,154 [INFO] ThirdPartyDb:299 - Save Third Party DataBase File (C:/Users/Windows-home/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) [forced]
+2020-12-08 20:52:15,233 [INFO] ThirdPartyDb:299 - Save Third Party DataBase File (C:/Users/Windows-home/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) [forced]
+2020-12-08 20:52:15,297 [INFO] IntegrityCheckThread:76 - exiting critical section [integrity check]
+2020-12-08 20:52:15,297 [INFO] IntegrityCheckThread:79 - End integrity checks thread
+2020-12-08 20:52:45,485 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host sw-center.st.com
+2020-12-08 20:52:45,485 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.ebuc23.com
+2020-12-08 20:52:45,500 [INFO] MainUpdater:2268 - connection check result : 22
+2020-12-08 20:52:47,557 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-12-08 20:52:47,867 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: C:\Users\Windows-home\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2020-12-08 20:52:47,877 [INFO] MultiScanPanel:193 - Auto-refresh data requested => check proxy status ongoing
+2020-12-08 20:52:47,882 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2020-12-08 20:52:47,887 [INFO] DbMcusXml:100 - Load MCU database from C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/mcu/families.xml
+2020-12-08 20:52:49,309 [INFO] DbMcusJson:92 - JSON generation date=Thu Nov 05 19:05:07 MSK 2020 (1604592307)
+2020-12-08 20:52:50,706 [INFO] DbMcus:175 - Found 1761 MCUs (1722 are supported by CubeMX, 1738 are visible in CubeMX)
+2020-12-08 20:52:50,706 [INFO] ApiDb:201 - Load user favorites file C:\Users\Windows-home/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-12-08 20:52:50,706 [INFO] ApiDb:205 - User favorites MCUs=[]
+2020-12-08 20:52:50,706 [INFO] DbMcus:187 - Set 0 / 0 favorites MCUs
+2020-12-08 20:52:52,046 [INFO] McuFilterPanel:245 - Update 0 favorites MCUs
+2020-12-08 20:52:52,235 [INFO] DbBoardsPdsc:94 - Found 23 items
+2020-12-08 20:52:52,251 [INFO] DbBoardsPdsc:94 - Found 9 items
+2020-12-08 20:52:52,251 [INFO] DbBoardsPdsc:94 - Found 29 items
+2020-12-08 20:52:52,251 [INFO] DbBoardsPdsc:94 - Found 1 items
+2020-12-08 20:52:52,251 [INFO] DbBoardsPdsc:94 - Found 44 items
+2020-12-08 20:52:52,266 [INFO] DbBoardsPdsc:94 - Found 40 items
+2020-12-08 20:52:52,266 [INFO] DbBoardsPdsc:94 - Found 2 items
+2020-12-08 20:52:52,282 [INFO] DbBoardsPdsc:94 - Found 4 items
+2020-12-08 20:52:52,282 [WARN] DbBoardsPdsc:258 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-12-08 20:52:52,282 [WARN] DbBoardsPdsc:258 - Board STM32H735G-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (WM8994ECS/R), n=1
+2020-12-08 20:52:52,297 [WARN] DbBoardsPdsc:258 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-12-08 20:52:52,297 [WARN] DbBoardsPdsc:258 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-12-08 20:52:52,297 [WARN] DbBoardsPdsc:258 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-12-08 20:52:52,360 [INFO] DbBoardsJson:85 - JSON generation date=Thu Nov 05 17:55:26 MSK 2020 (1604588126)
+2020-12-08 20:52:52,376 [INFO] DbBoards:117 - Found 152 boards (149 are supported by CubeMX)
+2020-12-08 20:52:52,391 [INFO] DbBoardsDocs:145 - JSON generation date=Thu Nov 05 19:05:07 MSK 2020 (1604592307)
+2020-12-08 20:52:52,438 [INFO] DbBoardsDocs:81 - Found 190 boards documents
+2020-12-08 20:52:52,438 [WARN] DbBoards:127 - board B-L462E-CELL1 has no document id list !
+2020-12-08 20:52:52,438 [WARN] DbBoards:127 - board B-L475E-IOT01A2 has no document id list !
+2020-12-08 20:52:52,438 [WARN] DbBoards:127 - board NUCLEO-G491RE has no document id list !
+2020-12-08 20:52:52,438 [WARN] DbBoards:127 - board NUCLEO-H743ZI2 has no document id list !
+2020-12-08 20:52:52,438 [WARN] DbBoards:127 - board NUCLEO-WB55RG has no document id list !
+2020-12-08 20:52:52,438 [WARN] DbBoards:127 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-12-08 20:52:52,438 [WARN] DbBoards:127 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-12-08 20:52:52,438 [WARN] DbBoards:127 - board STEVAL-BFA001V1B has no document id list !
+2020-12-08 20:52:52,438 [WARN] DbBoards:127 - board STEVAL-BFA001V2B has no document id list !
+2020-12-08 20:52:52,438 [WARN] DbBoards:127 - board STEVAL-IDP005V1 has no document id list !
+2020-12-08 20:52:52,438 [WARN] DbBoards:127 - board STEVAL-IDP005V2 has no document id list !
+2020-12-08 20:52:52,454 [WARN] DbBoards:127 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-12-08 20:52:52,454 [WARN] DbBoards:127 - board STEVAL-STWINKT1 has no document id list !
+2020-12-08 20:52:52,454 [WARN] DbBoards:127 - board STM32F401C-DISCO has no document id list !
+2020-12-08 20:52:52,454 [WARN] DbBoards:127 - board STM32F769I-DISC1 has no document id list !
+2020-12-08 20:52:52,454 [WARN] DbBoards:127 - board STM32G474E-EVAL1 has no document id list !
+2020-12-08 20:52:52,454 [WARN] DbBoards:127 - board STM32H743I-EVAL2 has no document id list !
+2020-12-08 20:52:52,454 [WARN] DbBoards:127 - board STM32H747I-DISC1 has no document id list !
+2020-12-08 20:52:52,454 [WARN] DbBoards:127 - board STM32H753I-EVAL2 has no document id list !
+2020-12-08 20:52:52,454 [WARN] DbBoards:127 - board STM32L-DISCOVERY has no document id list !
+2020-12-08 20:52:52,454 [WARN] DbBoards:127 - board STM32MP157A-DK1 has no document id list !
+2020-12-08 20:52:52,454 [WARN] DbBoards:127 - board STM32MP157F-EV1 has no document id list !
+2020-12-08 20:52:52,645 [ERROR] DbBoards:192 - No image file URL for board B-L462E-CELL1
+2020-12-08 20:52:54,212 [INFO] ApiDb:201 - Load user favorites file C:\Users\Windows-home/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-12-08 20:52:54,227 [INFO] ApiDb:205 - User favorites Boards=[]
+2020-12-08 20:52:54,227 [INFO] DbBoards:206 - Set 0 / 0 favorites Boards
+2020-12-08 20:53:20,841 [INFO] DbMcusDocs:145 - JSON generation date=Thu Nov 05 19:05:07 MSK 2020 (1604592307)
+2020-12-08 20:53:21,294 [INFO] DbMcusDocs:81 - Found 601 MCUs documents
+2020-12-08 20:53:40,316 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.25.2
+2020-12-08 20:53:40,316 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.25.1
+2020-12-08 20:53:40,316 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.25.0
+2020-12-08 20:54:06,929 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host sw-center.st.com
+2020-12-08 20:54:06,929 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.ebuc23.com
+2020-12-08 20:54:06,929 [INFO] MainUpdater:2268 - connection check result : 22
+2020-12-08 20:54:06,944 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host sw-center.st.com
+2020-12-08 20:54:06,944 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.ebuc23.com
+2020-12-08 20:54:06,960 [INFO] MainUpdater:2268 - connection check result : 22
+2020-12-08 20:54:23,598 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1st connection check tentative
+2020-12-08 20:54:23,598 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host sw-center.st.com
+2020-12-08 20:54:23,598 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.ebuc23.com
+2020-12-08 20:54:23,598 [INFO] MainUpdater:2268 - connection check result : 22
+2020-12-08 20:54:23,598 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] proxy connection test failed
+2020-12-08 20:54:23,613 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 2nd connection check tentative
+2020-12-08 20:54:23,613 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host sw-center.st.com
+2020-12-08 20:54:23,613 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.ebuc23.com
+2020-12-08 20:54:23,613 [INFO] MainUpdater:2268 - connection check result : 22
+2020-12-08 20:54:23,613 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] proxy connection test failed
+2020-12-08 20:54:24,770 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1st connection check tentative
+2020-12-08 20:54:24,770 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host sw-center.st.com
+2020-12-08 20:54:24,786 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.ebuc23.com
+2020-12-08 20:54:24,786 [INFO] MainUpdater:2268 - connection check result : 22
+2020-12-08 20:54:24,786 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] proxy connection test failed
+2020-12-08 20:54:24,786 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 2nd connection check tentative
+2020-12-08 20:54:24,786 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host sw-center.st.com
+2020-12-08 20:54:24,786 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.ebuc23.com
+2020-12-08 20:54:24,802 [INFO] MainUpdater:2268 - connection check result : 22
+2020-12-08 20:54:24,802 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] proxy connection test failed
+2020-12-08 20:54:25,294 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1st connection check tentative
+2020-12-08 20:54:25,309 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host sw-center.st.com
+2020-12-08 20:54:25,309 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.ebuc23.com
+2020-12-08 20:54:25,309 [INFO] MainUpdater:2268 - connection check result : 22
+2020-12-08 20:54:25,309 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] proxy connection test failed
+2020-12-08 20:54:25,309 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 2nd connection check tentative
+2020-12-08 20:54:25,325 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host sw-center.st.com
+2020-12-08 20:54:25,325 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.ebuc23.com
+2020-12-08 20:54:25,325 [INFO] MainUpdater:2268 - connection check result : 22
+2020-12-08 20:54:25,325 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] proxy connection test failed
+2020-12-08 20:54:25,497 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1st connection check tentative
+2020-12-08 20:54:25,497 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host sw-center.st.com
+2020-12-08 20:54:25,497 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.ebuc23.com
+2020-12-08 20:54:25,497 [INFO] MainUpdater:2268 - connection check result : 22
+2020-12-08 20:54:25,497 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] proxy connection test failed
+2020-12-08 20:54:25,512 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 2nd connection check tentative
+2020-12-08 20:54:25,512 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host sw-center.st.com
+2020-12-08 20:54:25,512 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.ebuc23.com
+2020-12-08 20:54:25,512 [INFO] MainUpdater:2268 - connection check result : 22
+2020-12-08 20:54:25,512 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] proxy connection test failed
+2020-12-08 20:54:47,980 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1st connection check tentative
+2020-12-08 20:54:48,386 [INFO] MainUpdater:2268 - connection check result : 10
+2020-12-08 20:54:48,386 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-12-08 20:54:51,910 [INFO] MainUpdater:2268 - connection check result : 10
+2020-12-08 20:54:51,957 [INFO] MicroXplorer:384 - Change Database Path : 
+2020-12-08 20:54:51,957 [INFO] MicroXplorer:414 - Change Database Version : DB.6.0.0
+2020-12-08 20:54:51,957 [WARN] ThirdParty:775 - waiting for thirdparty lock release [close project]
+2020-12-08 20:54:51,957 [INFO] ThirdParty:777 - entering critical section [close project]
+2020-12-08 20:54:51,957 [INFO] ThirdParty:790 - exiting critical section [close project]
+2020-12-08 20:54:51,957 [INFO] PinOutPanel:1418 - setPackage(No Configuration,No Configuration)
+2020-12-08 20:54:51,957 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 287392424 Bytes (365953024)
+2020-12-08 20:54:51,973 [INFO] MicroXplorer:384 - Change Database Path : 
+2020-12-08 20:54:51,973 [INFO] MicroXplorer:414 - Change Database Version : DB.6.0.0
+2020-12-08 20:54:51,973 [INFO] OpenFileManager:274 - Change cursor
+2020-12-08 20:54:57,609 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2020-12-08 20:54:57,609 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2020-12-08 20:54:57,609 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2020-12-08 20:54:57,703 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.0: no header file found
+2020-12-08 20:54:57,703 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.0: no header file found
+2020-12-08 20:54:57,703 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.0: no header file found
+2020-12-08 20:54:57,703 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.2.0.0: no header file found
+2020-12-08 20:54:57,703 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.2.0.0: no header file found
+2020-12-08 20:54:57,703 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.2.0.0: no header file found
+2020-12-08 20:54:57,765 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.8.1.1: no header file found
+2020-12-08 20:54:57,765 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.8.1.1: no header file found
+2020-12-08 20:54:57,765 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.8.1.1: no header file found
+2020-12-08 20:54:57,841 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2020-12-08 20:54:57,841 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2020-12-08 20:54:57,856 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2020-12-08 20:54:57,856 [WARN] ApiManager:274 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.0.0: no header file found
+2020-12-08 20:54:57,856 [WARN] ApiManager:274 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.0.0: no header file found
+2020-12-08 20:54:57,856 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1603469906078]
+2020-12-08 20:54:57,856 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : GFX01M1_Condition id : 1603469906063
+2020-12-08 20:54:57,856 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1603469906078]
+2020-12-08 20:54:57,856 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : GFX01M1_HelloWorld_Condition id : 1603469906065
+2020-12-08 20:54:57,856 [INFO] RtosManager:456 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2020-12-08 20:54:57,856 [INFO] RtosManager:456 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2020-12-08 20:54:57,856 [INFO] RtosManager:456 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2020-12-08 20:54:57,856 [INFO] RtosManager:456 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2020-12-08 20:54:57,856 [WARN] ModelIntegratedComponent:188 - Missing modes for component 1597775094354
+2020-12-08 20:54:57,856 [WARN] ApiManager:274 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.1.0: no header file found
+2020-12-08 20:54:57,856 [WARN] ApiManager:274 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.1.0: no header file found
+2020-12-08 20:54:57,856 [WARN] ApiManager:274 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.1.0: no header file found
+2020-12-08 20:54:57,856 [WARN] ApiManager:274 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.1.0: no header file found
+2020-12-08 20:54:57,856 [WARN] ApiManager:274 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.1: no header file found
+2020-12-08 20:54:57,856 [WARN] ApiManager:274 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.0.0: no header file found
+2020-12-08 20:54:57,856 [WARN] ApiManager:274 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.1.0: no header file found
+2020-12-08 20:54:59,457 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 248607680 Bytes (365953024)
+2020-12-08 20:54:59,457 [WARN] ThirdParty:741 - waiting for thirdparty lock release [change project]
+2020-12-08 20:54:59,457 [INFO] ThirdParty:743 - entering critical section [change project]
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 3.0.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 2.0.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 8.1.1
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 8.2.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 3.0.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 1.0.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.1.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.1.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.15.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.2.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.1
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.0.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.1.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2020-12-08 20:54:59,457 [INFO] ThirdParty:749 - exiting critical section [change project]
+2020-12-08 20:54:59,957 [INFO] PinOutPanel:1418 - setPackage(No Configuration,No Configuration)
+2020-12-08 20:54:59,973 [INFO] PinOutPanel:1418 - setPackage(STM32F407IGHx,UFBGA176)
+2020-12-08 20:55:00,820 [INFO] UtilMem:74 - Before build in PCC Used Memory: 269961496 Bytes (365953024)
+2020-12-08 20:55:01,446 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Windows-home/.stm32cubemx/plugins/power
+2020-12-08 20:55:01,556 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Windows-home/.stm32cubemx/plugins/power
+2020-12-08 20:55:01,634 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Windows-home/.stm32cubemx/plugins/power
+2020-12-08 20:55:01,649 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Windows-home/.stm32cubemx/plugins/power
+2020-12-08 20:55:01,908 [INFO] UtilMem:74 - After build in PCC Used Memory: 257725056 Bytes (365953024)
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,939 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:01,955 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-08 20:55:02,017 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2020-12-08 20:55:02,346 [INFO] OpenFileManager:294 - Restore cursor
+2020-12-08 20:55:02,909 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 306490056 Bytes (365953024)
+2020-12-08 20:55:03,060 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 316453568 Bytes (365953024)
+2020-12-08 20:55:03,889 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: SYS
+2020-12-08 20:55:03,889 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: RCC
+2020-12-08 20:55:03,889 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: NVIC
+2020-12-08 20:55:03,889 [INFO] CodeGenerator:622 - code generatio: config db path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\
+2020-12-08 20:55:04,874 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\license.tmp_save
+2020-12-08 20:55:05,561 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\license.tmp
+2020-12-08 20:55:05,811 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\stm32f4xx_it.c_save
+2020-12-08 20:55:06,053 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\stm32f4xx_it.c
+2020-12-08 20:55:06,069 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\stm32f4xx_it.h_save
+2020-12-08 20:55:06,195 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\stm32f4xx_it.h
+2020-12-08 20:55:06,210 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\stm32f4xx_hal_msp.c_save
+2020-12-08 20:55:06,398 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\stm32f4xx_hal_msp.c
+2020-12-08 20:55:06,413 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\system.tmp_save
+2020-12-08 20:55:06,523 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\system.tmp
+2020-12-08 20:55:06,523 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-12-08 20:55:06,710 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\stm32f4xx_hal_conf.h
+2020-12-08 20:55:06,773 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\main.h_save
+2020-12-08 20:55:06,929 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\main.h
+2020-12-08 20:55:06,945 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\main.c_save
+2020-12-08 20:55:07,148 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\main.c
+2020-12-08 20:55:08,297 [INFO] ProjectBuilder:2168 - Time for Copy HAL[1] : 126mS.
+2020-12-08 20:55:08,297 [INFO] ProjectBuilder:2988 - Project Generator version: 3.10.0-B14
+2020-12-08 20:55:09,247 [INFO] ConfigFileManager:1183 - The Die is : DIE413
+2020-12-08 20:55:09,278 [INFO] ApiDbMcu:456 - Load IP Config File for FATFS
+2020-12-08 20:55:09,294 [INFO] ApiDbMcu:456 - Load IP Config File for FREERTOS
+2020-12-08 20:55:09,294 [INFO] ApiDbMcu:456 - Load IP Config File for LIBJPEG
+2020-12-08 20:55:09,310 [INFO] ApiDbMcu:456 - Load IP Config File for LWIP
+2020-12-08 20:55:09,325 [INFO] ApiDbMcu:456 - Load IP Config File for MBEDTLS
+2020-12-08 20:55:09,341 [INFO] ApiDbMcu:456 - Load IP Config File for PDM2PCM
+2020-12-08 20:55:09,356 [INFO] ApiDbMcu:456 - Load IP Config File for USB_DEVICE
+2020-12-08 20:55:09,372 [INFO] ApiDbMcu:456 - Load IP Config File for USB_HOST
+2020-12-08 20:55:19,797 [ERROR] root:96 - SUCCESS
+2020-12-08 20:55:19,865 [INFO] ProjectBuilder:3155 - Time for Generating toolchain IDE Files: 11568mS.
+2020-12-08 20:55:19,866 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 1mS.
+2020-12-08 20:55:19,868 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-12-08 20:55:20,719 [INFO] ApiDb:226 - Save user favorites file C:\Users\Windows-home/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-12-08 20:55:20,720 [INFO] ApiDb:230 - User favorites MCUs=[]
+2020-12-08 21:02:25,688 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2020-12-08 21:03:23,215 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 650931656 Bytes (956301312)
+2020-12-08 21:03:28,592 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 774601472 Bytes (956301312)
+2020-12-08 21:03:29,245 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: USB_DEVICE
+2020-12-08 21:03:29,246 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: SYS
+2020-12-08 21:03:29,246 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: RCC
+2020-12-08 21:03:29,246 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: USB_OTG_FS
+2020-12-08 21:03:29,246 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: NVIC
+2020-12-08 21:03:29,246 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: GPIO
+2020-12-08 21:03:29,247 [INFO] CodeGenerator:622 - code generatio: config db path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\
+2020-12-08 21:03:30,185 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\license.tmp_save
+2020-12-08 21:03:30,458 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\license.tmp
+2020-12-08 21:03:30,521 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\gpio.c_save
+2020-12-08 21:03:30,703 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\gpio.c
+2020-12-08 21:03:30,716 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\gpio.h_save
+2020-12-08 21:03:30,864 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\gpio.h
+2020-12-08 21:03:30,874 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-12-08 21:03:30,943 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2020-12-08 21:03:31,077 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\usb_otg_fs_vars.tmp
+2020-12-08 21:03:31,088 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2020-12-08 21:03:31,228 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\usb_otg_fs_inc.tmp
+2020-12-08 21:03:31,245 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2020-12-08 21:03:31,388 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2020-12-08 21:03:31,401 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2020-12-08 21:03:31,601 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\usb_otg_fs_Msp.tmp
+2020-12-08 21:03:31,671 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-08 21:03:31,916 [INFO] Middleware:1168 - No code input for Bsp Dependency
+2020-12-08 21:03:31,937 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usb_device.c_save
+2020-12-08 21:03:32,065 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usb_device.c
+2020-12-08 21:03:32,065 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usb_device.h_save
+2020-12-08 21:03:32,143 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usb_device.h
+2020-12-08 21:03:32,143 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\Target\usbd_conf.h_save
+2020-12-08 21:03:32,237 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\Target\usbd_conf.h
+2020-12-08 21:03:32,237 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\Target\usbd_conf.c_save
+2020-12-08 21:03:32,347 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\Target\usbd_conf.c
+2020-12-08 21:03:32,347 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usbd_desc.h_save
+2020-12-08 21:03:32,456 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usbd_desc.h
+2020-12-08 21:03:32,456 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usbd_desc.c_save
+2020-12-08 21:03:32,550 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usbd_desc.c
+2020-12-08 21:03:32,565 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usbd_cdc_if.h_save
+2020-12-08 21:03:32,659 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usbd_cdc_if.h
+2020-12-08 21:03:32,659 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usbd_cdc_if.c_save
+2020-12-08 21:03:32,742 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usbd_cdc_if.c
+2020-12-08 21:03:32,742 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\stm32f4xx_it.c_save
+2020-12-08 21:03:32,867 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\stm32f4xx_it.c
+2020-12-08 21:03:32,867 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\stm32f4xx_it.h_save
+2020-12-08 21:03:32,945 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\stm32f4xx_it.h
+2020-12-08 21:03:32,961 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\stm32f4xx_hal_msp.c_save
+2020-12-08 21:03:33,145 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\stm32f4xx_hal_msp.c
+2020-12-08 21:03:33,159 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\system.tmp_save
+2020-12-08 21:03:33,259 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\system.tmp
+2020-12-08 21:03:33,270 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-12-08 21:03:33,488 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\stm32f4xx_hal_conf.h
+2020-12-08 21:03:33,546 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\main.h_save
+2020-12-08 21:03:33,664 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\main.h
+2020-12-08 21:03:33,680 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\main.c_save
+2020-12-08 21:03:33,807 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\main.c
+2020-12-08 21:03:34,911 [INFO] ProjectBuilder:2168 - Time for Copy HAL[1] : 100mS.
+2020-12-08 21:03:34,911 [INFO] ProjectBuilder:2988 - Project Generator version: 3.10.0-B14
+2020-12-08 21:03:35,214 [INFO] ConfigFileManager:1183 - The Die is : DIE413
+2020-12-08 21:03:37,826 [INFO] ProjectBuilder:3155 - Time for Generating toolchain IDE Files: 2915mS.
+2020-12-08 21:03:37,826 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-12-08 21:03:37,826 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-12-08 21:12:53,006 [INFO] Gpio:250 - dependency for GPIO [RCC, USB_OTG_FS]
+2020-12-08 21:13:21,457 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,2,27,519x727,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2020-12-08 21:13:23,371 [INFO] Gpio:250 - dependency for GPIO [RCC, USB_OTG_FS]
+2020-12-08 21:13:26,928 [INFO] Gpio:250 - dependency for GPIO [RCC, USB_OTG_FS]
+2020-12-08 21:13:30,854 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 673489496 Bytes (956301312)
+2020-12-08 21:13:32,655 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 766772112 Bytes (956301312)
+2020-12-08 21:13:32,905 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: USB_DEVICE
+2020-12-08 21:13:32,905 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: SYS
+2020-12-08 21:13:32,905 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: RCC
+2020-12-08 21:13:32,905 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: USB_OTG_FS
+2020-12-08 21:13:32,905 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: NVIC
+2020-12-08 21:13:32,905 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: GPIO
+2020-12-08 21:13:32,905 [INFO] CodeGenerator:622 - code generatio: config db path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\
+2020-12-08 21:13:33,265 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\license.tmp_save
+2020-12-08 21:13:33,327 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\license.tmp
+2020-12-08 21:13:33,343 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\gpio.c_save
+2020-12-08 21:13:33,421 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\gpio.c
+2020-12-08 21:13:33,436 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\gpio.h_save
+2020-12-08 21:13:33,499 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\gpio.h
+2020-12-08 21:13:33,499 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-12-08 21:13:33,546 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2020-12-08 21:13:33,608 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\usb_otg_fs_vars.tmp
+2020-12-08 21:13:33,608 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2020-12-08 21:13:33,671 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\usb_otg_fs_inc.tmp
+2020-12-08 21:13:33,671 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2020-12-08 21:13:33,765 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2020-12-08 21:13:33,765 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2020-12-08 21:13:33,856 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\usb_otg_fs_Msp.tmp
+2020-12-08 21:13:33,903 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-08 21:13:33,919 [INFO] Middleware:1168 - No code input for Bsp Dependency
+2020-12-08 21:13:33,935 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usb_device.c_save
+2020-12-08 21:13:34,013 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usb_device.c
+2020-12-08 21:13:34,028 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usb_device.h_save
+2020-12-08 21:13:34,092 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usb_device.h
+2020-12-08 21:13:34,108 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\Target\usbd_conf.h_save
+2020-12-08 21:13:34,170 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\Target\usbd_conf.h
+2020-12-08 21:13:34,170 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\Target\usbd_conf.c_save
+2020-12-08 21:13:34,264 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\Target\usbd_conf.c
+2020-12-08 21:13:34,264 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usbd_desc.h_save
+2020-12-08 21:13:34,342 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usbd_desc.h
+2020-12-08 21:13:34,342 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usbd_desc.c_save
+2020-12-08 21:13:34,420 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usbd_desc.c
+2020-12-08 21:13:34,420 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usbd_cdc_if.h_save
+2020-12-08 21:13:34,483 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usbd_cdc_if.h
+2020-12-08 21:13:34,483 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usbd_cdc_if.c_save
+2020-12-08 21:13:34,576 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\USB_DEVICE\App\usbd_cdc_if.c
+2020-12-08 21:13:34,592 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\stm32f4xx_it.c_save
+2020-12-08 21:13:34,701 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\stm32f4xx_it.c
+2020-12-08 21:13:34,717 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\stm32f4xx_it.h_save
+2020-12-08 21:13:34,795 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\stm32f4xx_it.h
+2020-12-08 21:13:34,795 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\stm32f4xx_hal_msp.c_save
+2020-12-08 21:13:34,904 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\stm32f4xx_hal_msp.c
+2020-12-08 21:13:34,920 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\system.tmp_save
+2020-12-08 21:13:34,967 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\MXTmpFiles\system.tmp
+2020-12-08 21:13:34,983 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\stm32f4xx_hal_conf.h_save
+2020-12-08 21:13:35,061 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\stm32f4xx_hal_conf.h
+2020-12-08 21:13:35,092 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\main.h_save
+2020-12-08 21:13:35,154 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Inc\main.h
+2020-12-08 21:13:35,154 [INFO] CodeEngine:188 - oldGeneratedFile, D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\main.c_save
+2020-12-08 21:13:35,248 [INFO] CodeEngine:206 - Generated code: D:\PROJECTS\UrbanSmartGrid\T-LOG Projects\PROJECTS\SOFT\STEND\PIT_TEST\Core\Src\main.c
+2020-12-08 21:13:36,202 [INFO] ProjectBuilder:2168 - Time for Copy HAL[1] : 76mS.
+2020-12-08 21:13:36,206 [INFO] ProjectBuilder:2988 - Project Generator version: 3.10.0-B14
+2020-12-08 21:13:36,612 [INFO] ConfigFileManager:1183 - The Die is : DIE413
+2020-12-08 21:13:39,174 [INFO] ProjectBuilder:3155 - Time for Generating toolchain IDE Files: 2968mS.
+2020-12-08 21:13:39,174 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-12-08 21:13:39,189 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-12-09 16:49:55,501 [INFO] Activator:178 - 
+
+
+2020-12-09 16:49:55,501 [INFO] Activator:179 - !SESSION log4j initialized
+2020-12-09 17:02:01,591 [INFO] Activator:170 - 
+
+
+2020-12-09 17:02:01,594 [INFO] Activator:171 - !SESSION log4j initialized
+2020-12-13 16:46:46,515 [INFO] Activator:178 - 
+
+
+2020-12-13 16:46:46,518 [INFO] Activator:179 - !SESSION log4j initialized

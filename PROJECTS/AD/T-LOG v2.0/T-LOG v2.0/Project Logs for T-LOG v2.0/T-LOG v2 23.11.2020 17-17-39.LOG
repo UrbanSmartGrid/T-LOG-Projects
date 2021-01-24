@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=X2 Old Footprint=VIA_0.8x1.6_ROUND New Footprint=VIA_0.5x1x2_RECTANGLE
+Change Component Footprint: Designator=X3 Old Footprint=VIA_0.8x1.6_ROUND New Footprint=VIA_0.5x1x2_RECTANGLE
+Change Component Footprint: Designator=X4 Old Footprint=VIA_0.8x1.6_ROUND New Footprint=VIA_0.5x1x2_RECTANGLE
+Change Component Footprint: Designator=X5 Old Footprint=VIA_0.8x1.6_ROUND New Footprint=VIA_0.5x1x2_RECTANGLE
+Change Component Comment : Designator=X2 Old Comment=VIA_0.8x1.6_ROUND New Comment=VIA_0.5x1x2_RECTANGLE
+Change Component Comment : Designator=X3 Old Comment=VIA_0.8x1.6_ROUND New Comment=VIA_0.5x1x2_RECTANGLE
+Change Component Comment : Designator=X4 Old Comment=VIA_0.8x1.6_ROUND New Comment=VIA_0.5x1x2_RECTANGLE
+Change Component Comment : Designator=X5 Old Comment=VIA_0.8x1.6_ROUND New Comment=VIA_0.5x1x2_RECTANGLE

@@ -1,0 +1,10 @@
+16:50:30 **** Incremental Build of configuration Debug for project PIT_TEST ****
+make -j4 all 
+arm-none-eabi-size   PIT_TEST.elf 
+   text	   data	    bss	    dec	    hex	filename
+  25904	    492	  10516	  36912	   9030	PIT_TEST.elf
+Finished building: default.size.stdout
+ 
+
+16:50:31 Build Finished. 0 errors, 0 warnings. (took 656ms)
+

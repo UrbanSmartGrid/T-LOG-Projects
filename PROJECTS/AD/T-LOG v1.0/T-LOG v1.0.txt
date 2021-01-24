@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : F:\PROJECTS\UrbanSmartGrid\ׂונלמכמדדונ\PROJECTS\AD\T-LOG v1.0\T-LOG v1.0\T-LOG v1.0.PcbDoc
+Date         : 25.05.2020
+Time         : 10:52:51
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 11.25mmx14.5mm
+    Components on board, 18
+count : 2

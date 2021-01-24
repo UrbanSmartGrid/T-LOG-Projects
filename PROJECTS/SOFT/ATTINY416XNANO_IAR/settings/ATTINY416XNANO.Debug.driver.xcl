@@ -1,0 +1,21 @@
+"--cpu=tiny416" 
+
+"--enhanced_core" 
+
+"-p" 
+
+"C:\Program Files (x86)\IAR Systems\AVR\avr\Config\iotiny416.ddf" 
+
+"--eeprom_size" 
+
+"128" 
+
+"--avrone_jtag_clock=100000" 
+
+"--drv_communication=USB" 
+
+"--drv_debug_port=updi" 
+
+
+
+

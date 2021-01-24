@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=PWR_MEM Pin=DD1-12
+Added Pin To Net: NetName=PWR_MEM Pin=DD1-8

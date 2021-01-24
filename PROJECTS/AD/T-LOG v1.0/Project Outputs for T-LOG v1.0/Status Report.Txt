@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [T-LOG v1.0.PrjPcb]
+   Generated File[T-LOG v1.0.TXT]
+   Generated File[T-LOG v1.0.LDP]
+   Generated File[T-LOG v1.0.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:21:56 On 25.05.2020

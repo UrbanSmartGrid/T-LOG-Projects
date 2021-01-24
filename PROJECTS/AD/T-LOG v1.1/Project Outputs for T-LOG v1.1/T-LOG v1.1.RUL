@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: F:\PROJECTS\UrbanSmartGrid\ׂונלמכמדדונ\PROJECTS\AD\T-LOG v1.1\T-LOG v1.1.PcbDoc
+RuleKind=Clearance|RuleName=POLY-BOARD|Scope=Board|Minimum=19.69
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=ClearancePOLY|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=WidthINNER|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Clearance|RuleName=ClearanceTOPandBOTTOM|Scope=Board|Minimum=4.72
+RuleKind=Clearance|RuleName=ClearanceINNER|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=WidthTOPandBOTTOM|Scope=Board|Minimum=4.92
