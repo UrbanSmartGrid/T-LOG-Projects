@@ -26,7 +26,7 @@
         <ShowSource>1</ShowSource>
     </Trace1>
     <DebugChecksum>
-        <Checksum>2010139594</Checksum>
+        <Checksum>1504732562</Checksum>
     </DebugChecksum>
     <CallStack>
         <ShowArgs>0</ShowArgs>
@@ -44,7 +44,8 @@
         <Category>_ 0</Category>
     </LogFile>
     <Breakpoints>
-        <Count>0</Count>
+        <Bp0>_ "STD_CODE" "{$PROJ_DIR$\main.c}.177.2" 1 0 0 0 "" 0 ""</Bp0>
+        <Count>1</Count>
     </Breakpoints>
     <Aliases>
         <Count>0</Count>

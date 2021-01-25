@@ -89,7 +89,7 @@ void PIT_init(void)
 #pragma vector = RTC_PIT_vect
 __interrupt void PIT_interrupt(void)
 {
-	static uint8_t flag = 0;	// only for debug
+//	static uint8_t flag = 0;	// only for debug
 	static uint8_t	_10sec_interval = 0;				// счётчик для отсчёта 10-секундных интервалов для проверки конфигурации
 	static uint8_t	_30sec_interval = 0;				// счётчик для отсчёта 30-секундных интервалов 
 	static uint8_t	temperature_control_interval = 0;
@@ -110,6 +110,8 @@ __interrupt void PIT_interrupt(void)
 		I2C_ReadBytes(USER_SPACE_ADDRESS, CFG_ADDRESS, (uint8_t*)(&memory_tlog_cfg), 4);
 		
 		PWR_MEM_OFF
+			
+//		printf("TIK 10 sec\n");			
 		
 		if(!COMPARE_CFG(memory_tlog_cfg, tlog_cfg))	// конфигурация изменена
 		{
@@ -118,15 +120,24 @@ __interrupt void PIT_interrupt(void)
 			tlog_cfg.top_level		= memory_tlog_cfg.top_level;
 			tlog_cfg.bottom_level	= memory_tlog_cfg.bottom_level;
 			
+			if(tlog_cfg.mode == MODE_BLOCKED)
+			{
+				// останавливем микроконтроллер в режиме POWER DOWN
+				/* Periodic Interrupt: disabled */
+				RTC.PITINTCTRL &= ~RTC_PI_bm;
+			}
+
+			
 			_30sec_interval = 0;
 			temperature_control_interval = 0;
+			
+//			printf("CFG was changed\n");
 						
-			asm("RETI");
 		}
 	}
 	
 	
-	if((tlog_cfg.mode == MODE_IDLE) || (tlog_cfg.mode == MODE_STOPPED))
+	if((tlog_cfg.mode == MODE_IDLE) || (tlog_cfg.mode == MODE_STOPPED) || (tlog_cfg.mode == MODE_STOPPED)) // do nothing
 	{
 //		if(flag==0)
 //		{
@@ -138,26 +149,23 @@ __interrupt void PIT_interrupt(void)
 //			flag = 0;
 //			PWR_MEM_OFF
 //		}
-		
-		asm("RETI");
 	}
-	
-	
-	// tlog_cfg.mode == MODE_CONTROL
-	
-	_30sec_interval++;
-	
-	if(_30sec_interval == THIRTY_SECONDS)
+	else	// tlog_cfg.mode == MODE_CONTROL
 	{
-		_30sec_interval = 0;
-		
-		temperature_control_interval++;
-		
-		if(temperature_control_interval == tlog_cfg.interval)
+		_30sec_interval++;
+	
+		if(_30sec_interval == THIRTY_SECONDS)
 		{
-			temperature_control_interval = 0;
+			_30sec_interval = 0;
 			
-			// проводим измерения
+			temperature_control_interval++;
+			
+			if(temperature_control_interval == tlog_cfg.interval)
+			{
+				temperature_control_interval = 0;
+				
+				// проводим измерения
+			}
 		}
 	}
 }

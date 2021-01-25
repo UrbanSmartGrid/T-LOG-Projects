@@ -139,6 +139,22 @@ public class ControlActivity extends AppCompatActivity {
 
 
         readTLogCfg(new TLogData(tagFromIntent, TLogID));
+
+        // блокируем выбор режима если T-Log заблокирована
+        // MODE_BLOCKED
+        if(tlog_current_mode == 3) {
+            mSpinnerModes.setEnabled(false);
+            mSpinnerModes.setClickable(false);
+            mButtonSaveCfg.setEnabled(false);
+            mTLogID.setEnabled(false);
+            mTLogID.setClickable(false);
+            mControlInterval.setEnabled(false);
+            mControlInterval.setClickable(false);
+            mTopTemperatureLevel.setEnabled(false);
+            mTopTemperatureLevel.setClickable(false);
+            mBottomTemperatureLevel.setEnabled(false);
+            mBottomTemperatureLevel.setClickable(false);
+        }
     }
 
 

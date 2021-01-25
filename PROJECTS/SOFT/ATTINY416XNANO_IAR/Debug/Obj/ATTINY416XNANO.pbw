@@ -59278,21 +59278,7 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@2297@F@PIT_interrupt@flag",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "flag",
-    "location": {
-      "column": "17",
-      "line": "92",
-      "path": "D:\\PROJECTS\\UrbanSmartGrid\\T-LOG Projects\\PROJECTS\\SOFT\\ATTINY416XNANO_IAR\\main.c"
-    },
-    "name": "flag",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@2342@F@PIT_interrupt@_10sec_interval",
+    "ID": "c:main.c@2344@F@PIT_interrupt@_10sec_interval",
     "What": "Variable",
     "defdec": "Def",
     "display": "_10sec_interval",
@@ -59306,7 +59292,7 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@2515@F@PIT_interrupt@_30sec_interval",
+    "ID": "c:main.c@2517@F@PIT_interrupt@_30sec_interval",
     "What": "Variable",
     "defdec": "Def",
     "display": "_30sec_interval",
@@ -59320,7 +59306,7 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@2640@F@PIT_interrupt@temperature_control_interval",
+    "ID": "c:main.c@2642@F@PIT_interrupt@temperature_control_interval",
     "What": "Variable",
     "defdec": "Def",
     "display": "temperature_control_interval",
@@ -59334,7 +59320,7 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@2691@F@PIT_interrupt@memory_tlog_cfg",
+    "ID": "c:main.c@2693@F@PIT_interrupt@memory_tlog_cfg",
     "What": "Variable",
     "defdec": "Def",
     "display": "memory_tlog_cfg",
@@ -59354,7 +59340,7 @@
     "display": "void main(void)",
     "location": {
       "column": "6",
-      "line": "167",
+      "line": "175",
       "path": "D:\\PROJECTS\\UrbanSmartGrid\\T-LOG Projects\\PROJECTS\\SOFT\\ATTINY416XNANO_IAR\\main.c"
     },
     "name": "main",

@@ -182,7 +182,7 @@
                 </option>
                 <option>
                     <name>LCNearHeapSize</name>
-                    <state>0x20</state>
+                    <state>0x40</state>
                 </option>
                 <option>
                     <name>LCFarHeapSize</name>
@@ -499,11 +499,11 @@
                 </option>
                 <option>
                     <name>CCOptLevel</name>
-                    <state>1</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>CCOptLevelSlave</name>
-                    <state>1</state>
+                    <state>0</state>
                 </option>
             </data>
         </settings>
